@@ -1,4 +1,7 @@
 .topPanel{
+    position: sticky;
+    top: 1px;
+    background: linear-gradient(to bottom,black, red);
     grid-row-start:1;
     grid-row-end:1;
     grid-column-start: 1;
